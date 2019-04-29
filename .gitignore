@@ -21,4 +21,3 @@ overlays/
 node_modules
 **/lib/dist/
 **/lib/assets/
-dist
